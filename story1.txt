@@ -1,2 +1,3 @@
 This is a beautiful story.
 Line 2.
+Story1, Line 3.
